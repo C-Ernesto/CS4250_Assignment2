@@ -6,8 +6,13 @@ Index.py is the front end file that contains all of the user interface, while db
 To create the table, run the createTables() fuctin found in db_connection.py
 
 Database attributes
+
 DB_NAME = "corpus"
+
 DB_USER = "postgres"
+
 DB_PASS = "123"
+
 DB_HOST = "localhost"
+
 DB_PORT = "5432"
