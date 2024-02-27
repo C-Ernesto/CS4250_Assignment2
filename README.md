@@ -1,6 +1,6 @@
 # CS4250_Assignment2
 
-The solution for assignment 2 is located in db_connection.py
+The solution for assignment 2 is located in db_connection.py\n
 Index.py is the front end file that contains all of the user interface, while db_connection.py contains the backend connection to the database
 To create the table, run the createTables() fuctin found in db_connection.py
 
